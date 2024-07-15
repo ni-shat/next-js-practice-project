@@ -1,0 +1,7 @@
+public folder er vithor e chobi, font, static jinish gulo rakhbo.
+
+pura application app namok folder er vithor ache. 
+
+next.config file e next js er diff configuration
+
+** next js e by default shob gula server component. server component mane hocche server e render hobe. 
