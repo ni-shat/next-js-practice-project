@@ -14,8 +14,8 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <body className={inter.className}>
 
-        <nav className="mx-auto w-fit mt-8">
-          <ul className="flex gap-8 ">
+        <nav className="mx-auto w-fit mt-8 border-b">
+          <ul className="flex gap-8">
             <li><Link href='/'>Home</Link></li>
             <li><Link href='/menu'>Menu</Link></li>
             <li><Link href='/about'>About</Link></li>
