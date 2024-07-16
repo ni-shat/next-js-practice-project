@@ -65,7 +65,7 @@ export default async function Home() {
 
   return (
     <div className='mt-28 flex justify-between flex-col items-center gap-10'>
-      <p>Welcome to home page</p>
+      <p>Welcome to home page!! Updated</p>
       <p className='text-center font-extrabold'>{data.props.data.domain}</p>
     </div>
   )
